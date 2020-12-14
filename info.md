@@ -6,6 +6,6 @@ The COVID-19 pandemic has greatly affected individuals, families, health care sy
 
 ## What data is shown here?
 
-The results for every calculation of dSvib for the closed and the open conformations are available here, as well as the difference between the deltas
+The results for every calculation of dSvib for the closed and the open conformations are available here, as well as the difference between the deltas.
 
 In the first graph you can choose to look, for each site, at the median, maximum or minimum value between all 20 differences between deltas, for the WT (zero) and other 19 possible mutations. The selected positions on the first graph appear on the structure on the right and all the 20 values associated to the 20 amino acids appear on the second graph, in which you can choose to see the values for the open strucutre, the closed strucutre, or the score diff_delta considering both. According to the hypothesis we presented, the higher values of diff_delta represent the most infectious candidates and the lower values of diff_delta represent the least infectious candidates.
