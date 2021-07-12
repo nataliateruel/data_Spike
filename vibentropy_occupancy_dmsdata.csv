@@ -1,4 +1,4 @@
-site,wildtype,mutation,label_site,mut_delta_closed_Svib,mut_delta_open_Svib,mut_diff_delta,protein_site,protein_chain,condition,site_median,site_max,site_min,site_var,mut_open_occupancy,mut_closed_occupancy,mut_occupancy_difference
+site,wildtype,mutation,label_site,mut_delta_closed_Svib,mut_delta_open_Svib,mut_VDS,protein_site,protein_chain,condition,site_median,site_max,site_min,site_var,mut_open_occupancy,mut_closed_occupancy,mut_occupancy_difference
 232,G,V,G232,0.64773269,-0.064903335,-0.712636025,219,A,beta=1,-0.363843967,0.130942425,-0.712636025,0.082080683,0.0551,0.9449,-0.8898
 232,G,E,G232,0.774428514,0.067446164,-0.706982349,219,A,beta=1,-0.363843967,0.130942425,-0.712636025,0.082080683,0.1158,0.8842,-0.7684
 355,R,F,R355,0.588385351,-0.108951673,-0.697337023,342,A,beta=1,-0.222509301,0.003333233,-0.697337023,0.036034759,0.2589,0.7411,-0.4822
